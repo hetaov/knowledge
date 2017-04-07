@@ -1,4 +1,4 @@
-### git导出项目
+### git导出项目 ###
 git archive master | tar -x -C /somewhere/else
 
 ### 恢复远程提交
