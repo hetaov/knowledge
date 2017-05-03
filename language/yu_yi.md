@@ -20,3 +20,7 @@ https://github.com/FudanNLP/fnlp/
 Python Text Processing with NLTK 2.0 Cookbook
 
 [NLTK](http://www.nltk.org/)
+
+## scikit-learn
+
+基于python的一种机器学习工具，主要功能包括：分类、回归、聚类、数据降维、模型选择、数据预处理
