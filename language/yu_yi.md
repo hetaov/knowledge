@@ -24,3 +24,6 @@ Python Text Processing with NLTK 2.0 Cookbook
 ## scikit-learn
 
 基于python的一种机器学习工具，主要功能包括：分类、回归、聚类、数据降维、模型选择、数据预处理
+
+## 繁简转换工具
+opencc -i docs/wiki.ch.text -o docs/wiki.ch.text.jian -c ~/tools/opencc-1.0.4/data/config/t2s.json
